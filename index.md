@@ -1,4 +1,6 @@
-See an overview of all of my code projects at [www.russellsteadman.com](https://www.russellsteadman.com/?utm_source=russelljs&utm_medium=top-msg#code-samples).
+*See an overview of all of my code projects at [www.russellsteadman.com](https://www.russellsteadman.com/?utm_source=russelljs&utm_medium=top-msg#code-samples).*
+
+# Open Source Projects
 
 ## Affiliate
 
