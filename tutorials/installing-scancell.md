@@ -1,3 +1,7 @@
+---
+title: How to Install Scan Cell
+redirect_from: /scancell
+---
 # How to Install Scan Cell
 
 This guide will walk you through how to install, build, and host Scan Cell.
