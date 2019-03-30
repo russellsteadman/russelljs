@@ -10,7 +10,7 @@ This guide will walk you through how to install, build, and host Scan Cell.
 
 Make sure git, Node.js, and Yarn are installed on your build machine. They are not required to serve the code.
 
-#### Downloads:
+#### Packages:
 * [Git SCM](https://git-scm.com/downloads)
 * [Node.js](https://nodejs.org/en/download/)
 * [Yarn Package Manager](https://yarnpkg.com/en/docs/install)
