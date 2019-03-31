@@ -1,6 +1,7 @@
 ---
 title: How to Install Scan Cell
-redirect_from: /scancell
+redirect_from: 
+    - /scancell
 ---
 # How to Install Scan Cell
 
